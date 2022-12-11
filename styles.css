@@ -11,3 +11,12 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.row {
+    display: flex;
+}
+
+.card {
+    flex: 20%;
+    padding: 50px;
+}
