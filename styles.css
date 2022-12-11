@@ -1,0 +1,13 @@
+.card {
+    background: rgba( 0, 0, 0, 0.8 );
+backdrop-filter: blur( 5.5px );
+-webkit-backdrop-filter: blur( 5.5px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+body {
+    background-image: url("cool-background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
